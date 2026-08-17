@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>icons/logo.png</file>
+        <file>icons/desktop.png</file>
+        <file>icons/laptop.png</file>
+        <file>icons/network.png</file>
+        <file>icons/package.png</file>
+        <file>icons/printer.png</file>
+        <file>icons/storage.png</file>
+        <file>icons/edit.png</file>
+        <file>icons/shield.png</file>
+        <file>icons/clipboard.png</file>
+        <file>icons/delete.png</file>
+    </qresource>
+</RCC>
